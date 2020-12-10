@@ -1,0 +1,12 @@
+*.iml
+.idea/
+/bin/
+/target/
+
+.classpath
+.project
+._.DS_Store
+.git/
+.settings/
+logs/
+
